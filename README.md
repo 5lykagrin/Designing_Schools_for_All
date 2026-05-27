@@ -37,6 +37,7 @@
 <tr>
 	<td colspan="2"><a href="https://raw.githubusercontent.com/5lykagrin/Designing_Schools_for_All/refs/heads/main/pic/IMG_20260316_082954.jpg" data-lightbox="gal[11380]" target="_blank" rel="noopener"> <img decoding="async" src="https://raw.githubusercontent.com/5lykagrin/Designing_Schools_for_All/refs/heads/main/pic/IMG_20260316_082954.jpg" width="350" /> </a></td>
 	<td><a href="https://raw.githubusercontent.com/5lykagrin/Designing_Schools_for_All/refs/heads/main/pic/IMG_20260427_095622.jpg" data-lightbox="gal[11380]" target="_blank" rel="noopener"> <img decoding="async" src="https://raw.githubusercontent.com/5lykagrin/Designing_Schools_for_All/refs/heads/main/pic/IMG_20260427_095622.jpg" width="240" /> </a></td>
+	<td><a href="https://raw.githubusercontent.com/5lykagrin/Designing_Schools_for_All/refs/heads/main/pic/IMG_20260507_121842.jpg" data-lightbox="gal[11380]" target="_blank" rel="noopener"> <img decoding="async" src="https://raw.githubusercontent.com/5lykagrin/Designing_Schools_for_All/refs/heads/main/pic/IMG_20260507_121842.jpg" width="240" /> </a></td>
 </tr>
 <tr>
 	<td colspan="4" align="center"> <a href="https://raw.githubusercontent.com/5lykagrin/Designing_Schools_for_All/refs/heads/main/pic/IMG_20260512_093214.jpg" data-lightbox="gal[11380]" target="_blank" rel="noopener"> <img decoding="async" src="https://raw.githubusercontent.com/5lykagrin/Designing_Schools_for_All/refs/heads/main/pic/IMG_20260512_093214.jpg" width="520" /></a></td>
